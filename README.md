@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Cornel-Iustin Buda 👋
 
-<!--
-**BudaCornel/BudaCornel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CS Student @ Technical University of Cluj-Napoca | Startup Co-Founder | Backend & Embedded Developer**
 
-Here are some ideas to get you started:
+I co-founded a startup at 16 that got featured on Shark Tank Romania (€40K offer). Now I build backend systems, embedded solutions, and full-stack applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Backend:** C#/.NET Core, Python, Java, REST APIs
+- **Databases:** PostgreSQL, MySQL, Vector DBs
+- **Infrastructure:** Docker, Linux, Git
+- **Embedded:** Arduino, ESP32, Raspberry Pi
+- **Languages:** C, C++, VHDL, Assembly, SQL
+
+## 🚀 Featured Projects
+- **[Shooting Range Platform]** — Production reservation system with .NET Core, PostgreSQL, Docker, Twilio SMS
+- **[Linkify]** — AI content generation API with multi-provider fallback
+- **[BarterApp]** — Skill matching using vector embeddings and cosine similarity
+- **[CyclinGo]** — Smart cyclist safety system (hardware + mobile app)
+
+## 📫 Let's Connect
+- LinkedIn: [linkedin.com/in/cornel-iustin-buda-6036a8201](https://www.linkedin.com/in/cornel-iustin-buda-6036a8201/)
+- Email: budacorneliustin@gmail.com
+
+*Currently seeking Summer 2025 internships in backend/embedded/full-stack development.*
