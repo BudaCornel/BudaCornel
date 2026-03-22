@@ -12,7 +12,7 @@ I co-founded a startup at 16 that got featured on Shark Tank Romania (€40K off
 - **Languages:** C, C++, VHDL, Assembly, SQL
 
 ## 🚀 Featured Projects
-- **[Shooting Range Platform](https://github.com/BudaCornel/shooting-range-platform)** — Production reservation system with .NET Core, PostgreSQL, Docker, Twilio SMS
+- **[Shooting Range Platform](https://squadstore.securereservation.ro)** — Production reservation system with .NET Core, PostgreSQL, Docker, Twilio SMS
 - **[Order Matching Engine](https://github.com/BudaCornel/matching-engine-java)** — High-concurrency stock exchange engine with Spring Boot, Java concurrency, and in-memory order book
 - **[BarterApp](https://github.com/BudaCornel/BarterApp)** — Skill matching using vector embeddings and cosine similarity
 - **[Order Management System](https://github.com/BudaCornel/order-management-system)** — CRUD application with layered architecture in Java
