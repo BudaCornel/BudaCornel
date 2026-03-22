@@ -21,4 +21,4 @@ I co-founded a startup at 16 that got featured on Shark Tank Romania (€40K off
 - LinkedIn: [linkedin.com/in/cornel-iustin-buda-6036a8201](https://www.linkedin.com/in/cornel-iustin-buda-6036a8201/)
 - Email: budacorneliustin@gmail.com
 
-*Currently seeking Summer 2025 internships in backend/embedded/full-stack development.*
+*Currently seeking Summer 2026 internships in backend/embedded/full-stack development.*
