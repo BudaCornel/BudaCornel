@@ -12,13 +12,13 @@ I co-founded a startup at 16 that got featured on Shark Tank Romania (€40K off
 - **Languages:** C, C++, VHDL, Assembly, SQL
 
 ## 🚀 Featured Projects
-- **[Shooting Range Platform]** — Production reservation system with .NET Core, PostgreSQL, Docker, Twilio SMS
-- **[Linkify]** — AI content generation API with multi-provider fallback
-- **[BarterApp]** — Skill matching using vector embeddings and cosine similarity
-- **[CyclinGo]** — Smart cyclist safety system (hardware + mobile app)
+- **[Shooting Range Platform](https://github.com/BudaCornel/shooting-range-platform)** — Production reservation system with .NET Core, PostgreSQL, Docker, Twilio SMS
+- **[Order Matching Engine](https://github.com/BudaCornel/order-matching-engine)** — High-concurrency stock exchange engine with Spring Boot, Java concurrency, and in-memory order book
+- **[BarterApp](https://github.com/BudaCornel/BarterApp)** — Skill matching using vector embeddings and cosine similarity
+- **[CyclinGo](https://github.com/BudaCornel/CyclinGo)** — Smart cyclist safety system (hardware + mobile app)
 
 ## 📫 Let's Connect
 - LinkedIn: [linkedin.com/in/cornel-iustin-buda-6036a8201](https://www.linkedin.com/in/cornel-iustin-buda-6036a8201/)
 - Email: budacorneliustin@gmail.com
 
-*Currently seeking Summer 2026 internships in backend/embedded/full-stack development.*
+*Currently seeking Summer 2026 internships in software engineering.*
